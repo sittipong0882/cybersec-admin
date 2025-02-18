@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "prima": "^0.0.1",
+    "sqlite3": "^5.1.7"
+  }
+}
